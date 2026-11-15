@@ -1,2 +1,2 @@
 # Cpp-Game-Development-Journey
-A collection of C++ games built while learning programming and game development.
+A collection of C++ projects built while learning programming.
